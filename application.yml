@@ -2,7 +2,7 @@
 app:
     greeting: Springboot Config from Config server
     version: 2:1
-    database: '{  host:"localhost", username:"sezayir", password:"1234Abc}'
+    database: '{  host:"localhost", username:"sezayir", password:"1234Abc"}'
     environment:
      names: dev,qa,prod
     
