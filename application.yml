@@ -1,4 +1,3 @@
-
 app:
     greeting: Springboot Config
     version: 2.1
