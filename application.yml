@@ -9,7 +9,7 @@ app:
 mail:
     from: info@sezo.com
     hostname: info@sezo.com
-    port: 8093
+    port: 8092
  
 management:
            endpoints:
